@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HW Google Registration Form</string>
+    <string name="create_your_google_acount">Create your Google Acount</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="username">Username</string>
+    <string name="you_can_use_letters_numbers_amp_periods"><![CDATA[You can use letters, numbers & periods]]></string>
+    <string name="use_current_email">Use my current email address instead</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="pass_info"><![CDATA[Use 8 or more charachters with a mix of letters, numbers & symbols]]></string>
+    <string name="show_password">Show password</string>
+    <string name="sign_in_instead">Sign in instead</string>
+    <string name="next">Next</string>
+    <string name="email">Use your current E-mail</string>
+    <string name="showPassword">check to show your password</string>
+    <string name="signin">Sign In</string>
+    <string name="clicknext">Click Next</string>
+</resources>

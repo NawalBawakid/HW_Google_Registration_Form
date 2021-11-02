@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HW Google Registration Form</string>
+    <string name="create_your_google_acount">"أنشئ حسابك "</string>
+    <string name="first_name">الإسم الأول</string>
+    <string name="last_name">اسم العائلة</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="you_can_use_letters_numbers_amp_periods">"تستطيع استخدام أحرف, أرقام ت "</string>
+    <string name="use_current_email">استخدم ايميلك الحالي</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirm">تأكيد كلمة المرور</string>
+    <string name="pass_info">استخدم 8 عناصر مختلفة من الأحرف, الأرقام والرموز</string>
+    <string name="show_password">اظهار كلمة المرور</string>
+    <string name="sign_in_instead">تسجيل الدخول</string>
+    <string name="next">التالي</string>
+    <string name="email">الإيميل</string>
+    <string name="showPassword">اظهر كلمة السر</string>
+    <string name="signin">تسجيل الدخول</string>
+    <string name="clicknext">التالي</string>
+</resources>
